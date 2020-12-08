@@ -1,2 +1,4 @@
 int a, b
 c=a+b
+int y, x
+c=y+x
